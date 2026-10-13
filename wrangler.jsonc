@@ -1,0 +1,13 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "tokgency",
+	"compatibility_date": "2026-10-01",
+	"routes": [{ "pattern": "tokgency.com", "custom_domain": true }],
+	// A static site: Cloudflare serves the prerendered files directly, no Worker code runs.
+	"assets": {
+		"directory": "./dist/client",
+		// pricing.html is served at /pricing; a trailing slash redirects to the bare path.
+		"html_handling": "drop-trailing-slash",
+		"not_found_handling": "404-page"
+	}
+}

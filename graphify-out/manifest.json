@@ -1,0 +1,1907 @@
+{
+  ".cta.json": {
+    "mtime": 1791896577.4892342,
+    "ast_hash": "d889a9a446f5bad9ffbb41fbde4d5714",
+    "semantic_hash": ""
+  },
+  ".impeccable/hook.cache.json": {
+    "mtime": 1791901025.2612462,
+    "ast_hash": "b7312e658d497fcd27fbc5c15bc79def",
+    "semantic_hash": ""
+  },
+  ".vscode/settings.json": {
+    "mtime": 1791896575.9507895,
+    "ast_hash": "338ce76b77ee3e51801e44cf984fac1f",
+    "semantic_hash": ""
+  },
+  "biome.json": {
+    "mtime": 1791899420.4695415,
+    "ast_hash": "7722362677c7a97b2bc39514aa716e88",
+    "semantic_hash": ""
+  },
+  "components.json": {
+    "mtime": 1791896624.8183024,
+    "ast_hash": "b042c3cf1438967e3f70035ed8889f55",
+    "semantic_hash": ""
+  },
+  "package.json": {
+    "mtime": 1791901293.3293254,
+    "ast_hash": "cc9da4953e578b80d5e5b5c1865ffc51",
+    "semantic_hash": ""
+  },
+  "src/components/brand/logo.tsx": {
+    "mtime": 1791898658.4420376,
+    "ast_hash": "a0a9454ee5eb84e0b86e33d27f6e7841",
+    "semantic_hash": ""
+  },
+  "src/components/layout/mobile-menu.tsx": {
+    "mtime": 1791901244.3077178,
+    "ast_hash": "a524b2495b4a879801eeffc583e33b61",
+    "semantic_hash": ""
+  },
+  "src/components/layout/not-found.tsx": {
+    "mtime": 1791896976.1481237,
+    "ast_hash": "02b682b67531b4eeeda706000d671574",
+    "semantic_hash": ""
+  },
+  "src/components/layout/page-shell.tsx": {
+    "mtime": 1791898129.005128,
+    "ast_hash": "99a1bc651d3ffcd5a88a7b10fc8f83bc",
+    "semantic_hash": ""
+  },
+  "src/components/layout/platform-menu.tsx": {
+    "mtime": 1791896869.4298089,
+    "ast_hash": "caab75bcea4838e38d934472a3c544a5",
+    "semantic_hash": ""
+  },
+  "src/components/layout/site-footer.tsx": {
+    "mtime": 1791901244.0321186,
+    "ast_hash": "68ba4c8d1303cf38919fab3788eb4804",
+    "semantic_hash": ""
+  },
+  "src/components/layout/site-header.tsx": {
+    "mtime": 1791901244.3077195,
+    "ast_hash": "ccc63898ecadaefe75ccc87ad65bc61d",
+    "semantic_hash": ""
+  },
+  "src/components/motion/reveal.tsx": {
+    "mtime": 1791900446.7340984,
+    "ast_hash": "f18ec1626c816d09240e779ba9e94f0c",
+    "semantic_hash": ""
+  },
+  "src/components/sections/agency/eligibility.tsx": {
+    "mtime": 1791898524.9171257,
+    "ast_hash": "49d1273d0b9a9df6257bace94a4da29e",
+    "semantic_hash": ""
+  },
+  "src/components/sections/agency/fit.tsx": {
+    "mtime": 1791901244.0230513,
+    "ast_hash": "1103e13c3f359fc54e8de7d00549a0af",
+    "semantic_hash": ""
+  },
+  "src/components/sections/agency/how-it-runs.tsx": {
+    "mtime": 1791898524.9189057,
+    "ast_hash": "d261ae738d275c47bb50a4e4a8132be7",
+    "semantic_hash": ""
+  },
+  "src/components/sections/agency/operation-mocks.tsx": {
+    "mtime": 1791898540.5927465,
+    "ast_hash": "839c1831bde9aec06575eaf9a78a7b88",
+    "semantic_hash": ""
+  },
+  "src/components/sections/agency/operations.tsx": {
+    "mtime": 1791898524.9154544,
+    "ast_hash": "2367cc908a888db3ede9206cb0afd0fa",
+    "semantic_hash": ""
+  },
+  "src/components/sections/agency/qualification.tsx": {
+    "mtime": 1791898524.9219918,
+    "ast_hash": "0d6a9451a46fa49cb8cb29f936328572",
+    "semantic_hash": ""
+  },
+  "src/components/sections/article/article-body.tsx": {
+    "mtime": 1791898658.214034,
+    "ast_hash": "dbb35f98741bb1b3275935aa23c2f86d",
+    "semantic_hash": ""
+  },
+  "src/components/sections/article/article-header.tsx": {
+    "mtime": 1791898470.629556,
+    "ast_hash": "7ba23b9569eaf65002f13b435d695150",
+    "semantic_hash": ""
+  },
+  "src/components/sections/article/article-toc.tsx": {
+    "mtime": 1791898462.9322278,
+    "ast_hash": "548a28c52c212a602ac0227ac8797563",
+    "semantic_hash": ""
+  },
+  "src/components/sections/article/keep-reading.tsx": {
+    "mtime": 1791898480.2724273,
+    "ast_hash": "331448966b576d4b247d74c89fc13c15",
+    "semantic_hash": ""
+  },
+  "src/components/sections/article/reading-progress.tsx": {
+    "mtime": 1791898456.4867136,
+    "ast_hash": "bf02fc5ee1abc70224985d02d7343212",
+    "semantic_hash": ""
+  },
+  "src/components/sections/creator-marketplace/book-meeting.tsx": {
+    "mtime": 1791898413.107886,
+    "ast_hash": "09000ec37add04eea947ee4123cc4f50",
+    "semantic_hash": ""
+  },
+  "src/components/sections/creator-marketplace/filter-panel.tsx": {
+    "mtime": 1791898391.410982,
+    "ast_hash": "498361a3970c711980fd54237aedd5a0",
+    "semantic_hash": ""
+  },
+  "src/components/sections/creator-marketplace/roster.tsx": {
+    "mtime": 1791898401.0589857,
+    "ast_hash": "9af33b94a03a70b30ca96422a1584a8f",
+    "semantic_hash": ""
+  },
+  "src/components/sections/creators/benefits.tsx": {
+    "mtime": 1791898356.1610847,
+    "ast_hash": "5d6726e81fc4fcb1ab18393ea9f0d40a",
+    "semantic_hash": ""
+  },
+  "src/components/sections/creators/faq.tsx": {
+    "mtime": 1791901244.024071,
+    "ast_hash": "9cf41441819cf3fbe6391e3aab1616de",
+    "semantic_hash": ""
+  },
+  "src/components/sections/creators/joining-steps.tsx": {
+    "mtime": 1791898362.7900171,
+    "ast_hash": "31fee7a867fa42bf57fc2760c114c526",
+    "semantic_hash": ""
+  },
+  "src/components/sections/creators/rate-card.tsx": {
+    "mtime": 1791898368.3726718,
+    "ast_hash": "5a935797f79945451269d2ed91e34a03",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/agency-band.tsx": {
+    "mtime": 1791901244.0219808,
+    "ast_hash": "559dafcda50f6ec255adbcc726e65537",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/by-the-numbers.tsx": {
+    "mtime": 1791901244.0343897,
+    "ast_hash": "d6047bb9bce60345466bebd3b0ccfe8b",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/comparison.tsx": {
+    "mtime": 1791901244.02215,
+    "ast_hash": "84cf6e5d700c6f6af54970c5ca4e9c7c",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/creator-hiring.tsx": {
+    "mtime": 1791898129.003555,
+    "ast_hash": "a2441de66414625db5eb40e631fbd8cb",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/demo-call.tsx": {
+    "mtime": 1791897352.4773154,
+    "ast_hash": "3fe8dd3a87b4cfa016b694432a3a3ec3",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/faq.tsx": {
+    "mtime": 1791901258.2350664,
+    "ast_hash": "2d0293639d38e869fdcd458c9a244f12",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/formats-wall.tsx": {
+    "mtime": 1791898129.0031354,
+    "ast_hash": "dc03048f66e16d9c460b78ac9f75fcb0",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/growth-loop.tsx": {
+    "mtime": 1791897447.6207757,
+    "ast_hash": "22b44bfe509a3e5c77244e2ccabc8951",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/hero-phone.tsx": {
+    "mtime": 1791898129.0038452,
+    "ast_hash": "cfe5d076bc495a561658908df482948b",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/hero-showcase.tsx": {
+    "mtime": 1791900579.4911776,
+    "ast_hash": "bf899a7c867ef04a50903fdf3b9deea9",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/hero.tsx": {
+    "mtime": 1791897133.3145392,
+    "ast_hash": "9bab7ef15dbee5860862a453f543a98a",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/investor-marquee.tsx": {
+    "mtime": 1791897296.0821898,
+    "ast_hash": "00e7613bbc9f00641155b904d3de2f62",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/route-mocks.tsx": {
+    "mtime": 1791901244.0224097,
+    "ast_hash": "8014415d1f6b72a7af0816595575e8d6",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/stat-flora.tsx": {
+    "mtime": 1791898658.212939,
+    "ast_hash": "e247eda0f2b551e682243ef43c718696",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/step-mocks.tsx": {
+    "mtime": 1791898761.3936288,
+    "ast_hash": "a64801ea5f3eb5ee1999bb32d6a7c65d",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/two-ways-in.tsx": {
+    "mtime": 1791901244.0222955,
+    "ast_hash": "187ad6be1f245da5b2ececcbd76a163f",
+    "semantic_hash": ""
+  },
+  "src/components/sections/home/workspace-mock.tsx": {
+    "mtime": 1791898761.3934639,
+    "ast_hash": "a241515fd397c7ab5e091336c731cdc4",
+    "semantic_hash": ""
+  },
+  "src/components/sections/how-it-works/campaign-loop.tsx": {
+    "mtime": 1791898457.1551507,
+    "ast_hash": "96c15a13c868bcefb0e1c7d45b9ed3a1",
+    "semantic_hash": ""
+  },
+  "src/components/sections/how-it-works/faq.tsx": {
+    "mtime": 1791898811.7587757,
+    "ast_hash": "f330657378b6bbf014c38e52b61e1073",
+    "semantic_hash": ""
+  },
+  "src/components/sections/how-it-works/guardrails.tsx": {
+    "mtime": 1791901244.02324,
+    "ast_hash": "645a03a0ef41959c10a315c580e70cac",
+    "semantic_hash": ""
+  },
+  "src/components/sections/how-it-works/order-status-mock.tsx": {
+    "mtime": 1791898457.156644,
+    "ast_hash": "0b3ec5b00ac0a6235b64956866eb1edb",
+    "semantic_hash": ""
+  },
+  "src/components/sections/how-it-works/order-status.tsx": {
+    "mtime": 1791898457.158147,
+    "ast_hash": "4f54b1e04ad8e76f41239a3d2cbe370d",
+    "semantic_hash": ""
+  },
+  "src/components/sections/landing/landing-cards.tsx": {
+    "mtime": 1791898547.9918525,
+    "ast_hash": "913950cd90afb0f19f7290e1b30d4c6e",
+    "semantic_hash": ""
+  },
+  "src/components/sections/landing/landing-head.ts": {
+    "mtime": 1791898438.1836052,
+    "ast_hash": "4138e0857d39cc50aff7ed33da4eae45",
+    "semantic_hash": ""
+  },
+  "src/components/sections/landing/landing-hero.tsx": {
+    "mtime": 1791899122.5854788,
+    "ast_hash": "f45572b39cfc7f7456556fb68445ecfa",
+    "semantic_hash": ""
+  },
+  "src/components/sections/landing/landing-included.tsx": {
+    "mtime": 1791898429.4936194,
+    "ast_hash": "90666a3bed5d1b51a9ecbb8acce4aedf",
+    "semantic_hash": ""
+  },
+  "src/components/sections/landing/landing-intro.tsx": {
+    "mtime": 1791898429.4905984,
+    "ast_hash": "f69296369430b83a4968e364c94fba58",
+    "semantic_hash": ""
+  },
+  "src/components/sections/landing/landing-related.tsx": {
+    "mtime": 1791898429.4950266,
+    "ast_hash": "d2bfb198e498940345462b6af10c5bf8",
+    "semantic_hash": ""
+  },
+  "src/components/sections/landing/landing-template.tsx": {
+    "mtime": 1791898438.2014496,
+    "ast_hash": "d02923a6f4d7e329e86ef016d8b35efc",
+    "semantic_hash": ""
+  },
+  "src/components/sections/legal/legal-layout.tsx": {
+    "mtime": 1791898553.8549485,
+    "ast_hash": "d59fbcbe830e655c9feb6aaf04ebe749",
+    "semantic_hash": ""
+  },
+  "src/components/sections/legal/policy-links.tsx": {
+    "mtime": 1791898560.971043,
+    "ast_hash": "a04365120303a414bec764193e97f80a",
+    "semantic_hash": ""
+  },
+  "src/components/sections/pricing/faq.tsx": {
+    "mtime": 1791898811.7584836,
+    "ast_hash": "dac4da55edd6790d1b2885d7eebb310b",
+    "semantic_hash": ""
+  },
+  "src/components/sections/pricing/pricing-models.tsx": {
+    "mtime": 1791898412.7087684,
+    "ast_hash": "007f19fbf4db62fc95ca9504ca4d8507",
+    "semantic_hash": ""
+  },
+  "src/components/sections/pricing/two-ways.tsx": {
+    "mtime": 1791901244.0243993,
+    "ast_hash": "e5e5cfef6dd29207fb3c0b475a86ac78",
+    "semantic_hash": ""
+  },
+  "src/components/sections/resources/article-card.tsx": {
+    "mtime": 1791898423.1396382,
+    "ast_hash": "8a483c836c7bafef1f63db1aeb9c609b",
+    "semantic_hash": ""
+  },
+  "src/components/sections/resources/featured-article.tsx": {
+    "mtime": 1791898430.2071657,
+    "ast_hash": "0407cd8bc904a9eaccdc0b40a7ade491",
+    "semantic_hash": ""
+  },
+  "src/components/sections/resources/resource-browser.tsx": {
+    "mtime": 1791898439.1788576,
+    "ast_hash": "3693debade7eca0c5a50460a1d40f5bc",
+    "semantic_hash": ""
+  },
+  "src/components/sections/tiktok-shop/creator-strip.tsx": {
+    "mtime": 1791898547.806658,
+    "ast_hash": "0503831afdbe4e7ac54572bb54cd971f",
+    "semantic_hash": ""
+  },
+  "src/components/sections/tiktok-shop/hero.tsx": {
+    "mtime": 1791898547.8050122,
+    "ast_hash": "69c372b08cd17996899db13e4007e112",
+    "semantic_hash": ""
+  },
+  "src/components/sections/tiktok-shop/how-it-runs.tsx": {
+    "mtime": 1791898761.627081,
+    "ast_hash": "c2ff9089bd95dcb896e795c5a3debb5e",
+    "semantic_hash": ""
+  },
+  "src/components/sections/tiktok-shop/job-mocks.tsx": {
+    "mtime": 1791898761.6293607,
+    "ast_hash": "bd21e756b43a792577b45f187df72bcb",
+    "semantic_hash": ""
+  },
+  "src/components/sections/tiktok-shop/poster-tile.tsx": {
+    "mtime": 1791898547.8098712,
+    "ast_hash": "ce7d2dcdf5e1e44f1b11bf0f9dd11ab0",
+    "semantic_hash": ""
+  },
+  "src/components/sections/tiktok-shop/problem.tsx": {
+    "mtime": 1791901244.0247428,
+    "ast_hash": "2640332df88c0f27d8ead9bcf39edf9f",
+    "semantic_hash": ""
+  },
+  "src/components/sections/tiktok-shop/way-art.tsx": {
+    "mtime": 1791898547.8144202,
+    "ast_hash": "467e49b33c1e0bb88926a849147a5c29",
+    "semantic_hash": ""
+  },
+  "src/components/sections/tiktok-shop/ways-to-sell.tsx": {
+    "mtime": 1791898547.8158908,
+    "ast_hash": "ec4b3063607de8c9ae53ae844b9d5466",
+    "semantic_hash": ""
+  },
+  "src/components/sections/tiktok-shop/what-we-handle.tsx": {
+    "mtime": 1791898761.3940408,
+    "ast_hash": "a4add7f1b76d3f84d558c5081f735a54",
+    "semantic_hash": ""
+  },
+  "src/components/sections/warmed-tiktok-accounts/founder-story.tsx": {
+    "mtime": 1791901244.0345342,
+    "ast_hash": "9bc54684b110c28fd2b35be843cda90e",
+    "semantic_hash": ""
+  },
+  "src/components/sections/warmed-tiktok-accounts/hero.tsx": {
+    "mtime": 1791898442.7541182,
+    "ast_hash": "17f0ed9fdfd17084b521f1a9d7f9bfab",
+    "semantic_hash": ""
+  },
+  "src/components/sections/warmed-tiktok-accounts/how-built.tsx": {
+    "mtime": 1791901244.0236928,
+    "ast_hash": "62798f7d5a9f478e8ec11f0b042900c0",
+    "semantic_hash": ""
+  },
+  "src/components/sections/warmed-tiktok-accounts/network-ticker.tsx": {
+    "mtime": 1791898512.470565,
+    "ast_hash": "bd3ebad732c9c7a730703af939eff32f",
+    "semantic_hash": ""
+  },
+  "src/components/sections/warmed-tiktok-accounts/order-tracker.tsx": {
+    "mtime": 1791898761.3935082,
+    "ast_hash": "c10dc85f6ae1ab02f15630154d1e0ff5",
+    "semantic_hash": ""
+  },
+  "src/components/sections/warmed-tiktok-accounts/signal-comparison.tsx": {
+    "mtime": 1791901244.0313945,
+    "ast_hash": "85c148876114dfaee914545551381096",
+    "semantic_hash": ""
+  },
+  "src/components/shared/autoplay-video.tsx": {
+    "mtime": 1791898761.3944013,
+    "ast_hash": "5fe154da2a2ae8173977f3b7f6b38ca0",
+    "semantic_hash": ""
+  },
+  "src/components/shared/button-link.tsx": {
+    "mtime": 1791896847.052923,
+    "ast_hash": "b724b255b67aa8cc371b9fb16a46600a",
+    "semantic_hash": ""
+  },
+  "src/components/shared/check-list.tsx": {
+    "mtime": 1791897320.0088952,
+    "ast_hash": "def4a13a82904aea01da040754f8c64a",
+    "semantic_hash": ""
+  },
+  "src/components/shared/closing-cta.tsx": {
+    "mtime": 1791898761.6334484,
+    "ast_hash": "51ae4637a02e7abb311c10aec5ebf46a",
+    "semantic_hash": ""
+  },
+  "src/components/shared/contrast-buttons.tsx": {
+    "mtime": 1791897539.642542,
+    "ast_hash": "fb3802152878d7eb9a9b4a4b0f2d19ea",
+    "semantic_hash": ""
+  },
+  "src/components/shared/faq-list.tsx": {
+    "mtime": 1791897511.3303022,
+    "ast_hash": "88a1f373de371e4408da7eba10d49006",
+    "semantic_hash": ""
+  },
+  "src/components/shared/feature-list.tsx": {
+    "mtime": 1791897379.4090812,
+    "ast_hash": "9f4f5ff1d5b93909a021448bda94d5b4",
+    "semantic_hash": ""
+  },
+  "src/components/shared/mini-ui.tsx": {
+    "mtime": 1791898761.3935544,
+    "ast_hash": "ab330ea86e5fd987cbfda802a824ba6d",
+    "semantic_hash": ""
+  },
+  "src/components/shared/mock-frame.tsx": {
+    "mtime": 1791898639.2101402,
+    "ast_hash": "1e5a8251aa182193004e24f4a299886b",
+    "semantic_hash": ""
+  },
+  "src/components/shared/page-hero.tsx": {
+    "mtime": 1791898191.9049087,
+    "ast_hash": "79881d09fa45beff9d7c8ff7a04c2301",
+    "semantic_hash": ""
+  },
+  "src/components/shared/scribbles.tsx": {
+    "mtime": 1791901292.6815987,
+    "ast_hash": "f20bac8c7c6f9a29b879917e3821ff78",
+    "semantic_hash": ""
+  },
+  "src/components/shared/section-heading.tsx": {
+    "mtime": 1791898812.1916213,
+    "ast_hash": "0bff17695f8c44376ae60fd1b3243679",
+    "semantic_hash": ""
+  },
+  "src/components/shared/smart-link.tsx": {
+    "mtime": 1791903571.6939776,
+    "ast_hash": "1f14d4e5b009ae1ea2d0ba66b8203361",
+    "semantic_hash": ""
+  },
+  "src/components/shared/video-marquee.tsx": {
+    "mtime": 1791901292.6808996,
+    "ast_hash": "33844729e98d3972ea38e42563db229d",
+    "semantic_hash": ""
+  },
+  "src/components/ui/accordion.tsx": {
+    "mtime": 1791898639.2112586,
+    "ast_hash": "b5a1b8e38837667eb593a51c0439e05a",
+    "semantic_hash": ""
+  },
+  "src/components/ui/button.tsx": {
+    "mtime": 1791896841.673123,
+    "ast_hash": "6bfb0cbe85f4ac5768851f3d791bdc3d",
+    "semantic_hash": ""
+  },
+  "src/components/ui/table.tsx": {
+    "mtime": 1791897465.7193444,
+    "ast_hash": "a9e5aa6d59cb34601b025e4ccd2014f8",
+    "semantic_hash": ""
+  },
+  "src/config/site.ts": {
+    "mtime": 1791903571.6937606,
+    "ast_hash": "8b10be0beee622d298d866a9552c0acd",
+    "semantic_hash": ""
+  },
+  "src/content/agency.ts": {
+    "mtime": 1791901244.02076,
+    "ast_hash": "0b61e90c40bc3c2a840ade62f345f082",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/best-colaba-alternatives.json": {
+    "mtime": 1791899209.3005857,
+    "ast_hash": "396f30c8e70dd1f30f14c3c17d61b1c1",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/best-cruva-alternatives.json": {
+    "mtime": 1791899209.2910714,
+    "ast_hash": "c661a6e47691a8dd2d63e543f960c831",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/best-euka-alternatives.json": {
+    "mtime": 1791899209.298711,
+    "ast_hash": "e046a1ab16b1949962d2c2076e0b6102",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/best-joinbrands-alternatives.json": {
+    "mtime": 1791899209.2906563,
+    "ast_hash": "b8573de9eb622fb613584f6fa30e4c11",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/best-reacher-alternatives.json": {
+    "mtime": 1791899209.2928538,
+    "ast_hash": "bf9c1cf901369a9655ef6055e813348c",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/best-tiktok-shop-affiliate-software.json": {
+    "mtime": 1791899209.2936213,
+    "ast_hash": "5ecf6bfc084f802d3adf9312f6a59c9f",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/best-tiktok-shop-categories.json": {
+    "mtime": 1791899209.2913015,
+    "ast_hash": "56006ba02b08ec28415de68e3955e1eb",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/best-tiktok-shop-marketing-agencies.json": {
+    "mtime": 1791899209.300165,
+    "ast_hash": "477b5f3bdcf4c205421695af36ba934f",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/best-uptk-alternatives.json": {
+    "mtime": 1791899209.2917235,
+    "ast_hash": "855172de4919a5f165979239c1f228b0",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/free-vs-paid-tiktok-creator-search.json": {
+    "mtime": 1791899209.3020675,
+    "ast_hash": "1061f45f220762b1712b29c4c53eeac3",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/full-service-vs-affiliate-only-tiktok-agencies.json": {
+    "mtime": 1791899209.2963374,
+    "ast_hash": "f5f62ca31fe8ce30aa3c4f94906899ce",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/gmv-max-vs-spark-ads.json": {
+    "mtime": 1791899209.3035438,
+    "ast_hash": "d920eec71d7ea83ab3a4b4779f3a7d3a",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/how-many-creators-tiktok-shop.json": {
+    "mtime": 1791899209.3047917,
+    "ast_hash": "18a6a6e4b0209e9d9d04e923f2a13dcf",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/how-to-choose-a-tiktok-shop-agency.json": {
+    "mtime": 1791899209.2908945,
+    "ast_hash": "f121a71a93f358eddadba82892cc50c6",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/how-to-find-tiktok-shop-creators.json": {
+    "mtime": 1791899209.3018317,
+    "ast_hash": "b4ac0cd4305e4694dc257c8f2a0ba6d9",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/how-to-get-more-views-tiktok.json": {
+    "mtime": 1791899209.2915013,
+    "ast_hash": "e8fc020b20dd941b8e4c923168f2f1ef",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/how-to-recruit-tiktok-affiliates.json": {
+    "mtime": 1791899209.2965863,
+    "ast_hash": "25b194d7652bf214306709e57d22c5e7",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/how-to-vet-tiktok-creators.json": {
+    "mtime": 1791899209.2948,
+    "ast_hash": "c79c0f33ec43232a9723629516676dc6",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/micro-vs-macro-creators-tiktok.json": {
+    "mtime": 1791899209.2950366,
+    "ast_hash": "8ee80bfbe6c77ab99f1eb9f272b013d1",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/open-vs-target-collaboration-tiktok.json": {
+    "mtime": 1791899209.2903123,
+    "ast_hash": "01f2e96109b9a1b21498c1db36dd6a60",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/questions-to-ask-tiktok-marketing-agency.json": {
+    "mtime": 1791899209.2989657,
+    "ast_hash": "c79aab6a278f01eed0c12fa05cd4a9ef",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/reacher-vs-euka-vs-cruva.json": {
+    "mtime": 1791899435.6932657,
+    "ast_hash": "a811766b16c2143d4968b10a382830ff",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/reactivate-tiktok-affiliates.json": {
+    "mtime": 1791899209.292098,
+    "ast_hash": "556116e4a9aa5d1bc9ea26870cdbc591",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/revenue-share-creator-deals.json": {
+    "mtime": 1791899209.289337,
+    "ast_hash": "55cf27cc986d7762b274197c1ed758d4",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-affiliate-center-alternatives.json": {
+    "mtime": 1791899209.2960773,
+    "ast_hash": "23ec100dc366aba54665237414d645e4",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-affiliate-commission-rate.json": {
+    "mtime": 1791899209.3004093,
+    "ast_hash": "623a8e647a238ed1de828fddde3123d6",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-affiliate-management-diy-software-agency.json": {
+    "mtime": 1791899209.2975216,
+    "ast_hash": "c5d20d527dc1ca5625481f160f0f25b5",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-affiliate-outreach-tools.json": {
+    "mtime": 1791899209.2952538,
+    "ast_hash": "1a6d8d627d82f3d2f6d3e97514acb3fe",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-creator-brief-template.json": {
+    "mtime": 1791899209.2954915,
+    "ast_hash": "31de9fe3c583bf1a61ee0429136583b8",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-creator-crm.json": {
+    "mtime": 1791899209.301029,
+    "ast_hash": "b0f56823795f09955d548fa6f58555b2",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-creator-discovery-tools.json": {
+    "mtime": 1791899209.2994301,
+    "ast_hash": "caf884c3d93ee6eec57ea15d146a9c54",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-creator-outreach-templates.json": {
+    "mtime": 1791899209.304111,
+    "ast_hash": "2d3aa39656351eedaa7ccb867083eada",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-creator-roster.json": {
+    "mtime": 1791899209.2924573,
+    "ast_hash": "b672f1f4052e671c114286eb88d8d3e4",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-creator-samples.json": {
+    "mtime": 1791899209.2991905,
+    "ast_hash": "e3a5d4ea81215125610ca41c05e68066",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-creator-seeding.json": {
+    "mtime": 1791899209.3030617,
+    "ast_hash": "b11203ead8cc2ac78d04911e477198a5",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-engagement-rate-benchmark.json": {
+    "mtime": 1791899209.2887816,
+    "ast_hash": "c87c8f7933383ec4afde5a559e40c816",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-marketing-agency-cost.json": {
+    "mtime": 1791899209.29683,
+    "ast_hash": "af4dc5b2bd3536eeb1d2bd736167b8cc",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-product-video-script.json": {
+    "mtime": 1791899209.2996798,
+    "ast_hash": "d5f52a3c605a0469414ee8623fa028dd",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-shop-affiliate-center.json": {
+    "mtime": 1791899209.30331,
+    "ast_hash": "e7bbb3f0d4989c4213ff177740eb9d61",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-shop-affiliate-commission.json": {
+    "mtime": 1791899209.3023548,
+    "ast_hash": "059896839f81a9a056972bb559fd99c7",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-shop-affiliate-statistics.json": {
+    "mtime": 1791899209.2943163,
+    "ast_hash": "0b4cb93c3fbcc9dcfd9d13913e542c6d",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-shop-agency-vs-in-house.json": {
+    "mtime": 1791899209.2931225,
+    "ast_hash": "3e2382b0e3f1199ed64bbeac412ee732",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-shop-analytics-tools.json": {
+    "mtime": 1791899209.2933688,
+    "ast_hash": "2edaad72dac19039d88b67f52e1ebbba",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-shop-automation-tools.json": {
+    "mtime": 1791899209.2979798,
+    "ast_hash": "cf973ee896af3ff7479e5dadfb11fd81",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-shop-case-study.json": {
+    "mtime": 1791899209.2938683,
+    "ast_hash": "8cfcbfadd98f2a5133012396189e0a24",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-shop-commission-rates.json": {
+    "mtime": 1791899209.3038764,
+    "ast_hash": "f89018d219263406444243d7da7247e0",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-shop-gmv-max.json": {
+    "mtime": 1791899209.3014762,
+    "ast_hash": "a54d22eff6824b6d7a9a3e2d33ad01df",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-shop-growth-strategy.json": {
+    "mtime": 1791899209.3008063,
+    "ast_hash": "652a656835f18aa5c1a91d6c596b8485",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-shop-live-selling.json": {
+    "mtime": 1791899209.2984333,
+    "ast_hash": "8a72a241216639fe4f97ff586a6517fa",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-shop-marketing-guide.json": {
+    "mtime": 1791899209.289083,
+    "ast_hash": "fe149c8b7c8bd7a9c74c73f2db55d7b0",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tiktok-shop-mistakes.json": {
+    "mtime": 1791899209.3043368,
+    "ast_hash": "c76007ec7cfb57a7669e6eeba140e501",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tokgency-vs-colaba.json": {
+    "mtime": 1791899209.3025622,
+    "ast_hash": "643cd2d183afe6afe320094a476993dc",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tokgency-vs-cruva.json": {
+    "mtime": 1791899209.2981586,
+    "ast_hash": "fadebd52992af43a7863063de94b9704",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tokgency-vs-euka.json": {
+    "mtime": 1791899209.30456,
+    "ast_hash": "a4ddf470c8afe735dbdace4d59415dde",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tokgency-vs-in-house-creator-manager.json": {
+    "mtime": 1791899209.2999249,
+    "ast_hash": "7cf12117841a962a95264c098140f82b",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tokgency-vs-joinbrands.json": {
+    "mtime": 1791899209.297741,
+    "ast_hash": "f179a5380e461b2ed3f6f296112d417c",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tokgency-vs-reacher.json": {
+    "mtime": 1791899209.2970705,
+    "ast_hash": "29948888c939416f3c3683988be00ce0",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/tokgency-vs-uptk.json": {
+    "mtime": 1791899209.2973003,
+    "ast_hash": "4f9c0bda038d75cbff9407f2370e4d55",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/ugc-creator-platforms.json": {
+    "mtime": 1791899209.289564,
+    "ast_hash": "9682bea362147f3d48a1603b0a5ea7ea",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/ugc-hook-formulas.json": {
+    "mtime": 1791899209.290072,
+    "ast_hash": "6c7ac1c2293078bb75dd57b8e69f0e74",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/what-does-a-tiktok-shop-marketing-agency-do.json": {
+    "mtime": 1791899209.2958922,
+    "ast_hash": "279d41754371aeaf52ecfee617bdbc21",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/what-is-gmv-on-tiktok-shop.json": {
+    "mtime": 1791899209.2898197,
+    "ast_hash": "cb605c914be75ba71e1eb77073fd87d8",
+    "semantic_hash": ""
+  },
+  "src/content/articles/bodies/when-to-hire-a-tiktok-shop-agency.json": {
+    "mtime": 1791899209.3028102,
+    "ast_hash": "803c658bd2ac80e0708f463f00a6d84a",
+    "semantic_hash": ""
+  },
+  "src/content/articles/index.json": {
+    "mtime": 1791901244.0275197,
+    "ast_hash": "cb4c45b3506223c33b5aa712dda422c8",
+    "semantic_hash": ""
+  },
+  "src/content/creator-marketplace.ts": {
+    "mtime": 1791898386.07917,
+    "ast_hash": "4f172ef01a37b7bfaf85a6940dbedec6",
+    "semantic_hash": ""
+  },
+  "src/content/creator-reel.json": {
+    "mtime": 1791901244.0273395,
+    "ast_hash": "946bd8c7f572c228d6917a4c1a1dd6ed",
+    "semantic_hash": ""
+  },
+  "src/content/creators.ts": {
+    "mtime": 1791898349.950741,
+    "ast_hash": "db63378ed1287976ba288c4c405d88db",
+    "semantic_hash": ""
+  },
+  "src/content/home.ts": {
+    "mtime": 1791901244.0333529,
+    "ast_hash": "0f6a309f130f62b896fa276d415ea996",
+    "semantic_hash": ""
+  },
+  "src/content/how-it-works.ts": {
+    "mtime": 1791898457.1535513,
+    "ast_hash": "77f65c92437b7f786c2bd7809cb65bc7",
+    "semantic_hash": ""
+  },
+  "src/content/landing/tiktok-affiliate-management.ts": {
+    "mtime": 1791898377.642661,
+    "ast_hash": "80dccabdc9982aa466ada3b79e801418",
+    "semantic_hash": ""
+  },
+  "src/content/landing/tiktok-creator-database.ts": {
+    "mtime": 1791898377.6438534,
+    "ast_hash": "4069cfeac181410302ad97a5b4b40176",
+    "semantic_hash": ""
+  },
+  "src/content/landing/tiktok-shop-agency-beauty.ts": {
+    "mtime": 1791898547.997379,
+    "ast_hash": "fab3eec9fda38d9688ab0bff3dd72d0b",
+    "semantic_hash": ""
+  },
+  "src/content/landing/tiktok-shop-agency-fashion.ts": {
+    "mtime": 1791898547.9965675,
+    "ast_hash": "d71c01eff2641e075143ace6baa0b33d",
+    "semantic_hash": ""
+  },
+  "src/content/landing/tiktok-shop-agency-food.ts": {
+    "mtime": 1791898547.9965878,
+    "ast_hash": "9fea0c6b201a325e5c906b9f4365edcc",
+    "semantic_hash": ""
+  },
+  "src/content/landing/tiktok-shop-agency-home.ts": {
+    "mtime": 1791898547.9965932,
+    "ast_hash": "9b022e0c1f27b25ea48327eb317c052c",
+    "semantic_hash": ""
+  },
+  "src/content/landing/tiktok-shop-agency-supplements.ts": {
+    "mtime": 1791898547.9972901,
+    "ast_hash": "323478112bbf1591cc495f9ea9e04748",
+    "semantic_hash": ""
+  },
+  "src/content/landing/tiktok-shop-marketing-agency.ts": {
+    "mtime": 1791898377.6415277,
+    "ast_hash": "48ac8281abc1a83335f7fcef55278d4e",
+    "semantic_hash": ""
+  },
+  "src/content/landing/types.ts": {
+    "mtime": 1791898429.4871335,
+    "ast_hash": "09f081b21fdebe04ca41ae0578adbc35",
+    "semantic_hash": ""
+  },
+  "src/content/legal/bodies/cancellation.json": {
+    "mtime": 1791903571.7009254,
+    "ast_hash": "548cf6d829d87d6424b0b6d022a7e86c",
+    "semantic_hash": ""
+  },
+  "src/content/legal/bodies/content-policy.json": {
+    "mtime": 1791903571.700746,
+    "ast_hash": "a56b114aaa3d42386a1835d5c3aae4ce",
+    "semantic_hash": ""
+  },
+  "src/content/legal/bodies/disclosure.json": {
+    "mtime": 1791903571.7012515,
+    "ast_hash": "981227cf08348b4958f5acaa6409c7e8",
+    "semantic_hash": ""
+  },
+  "src/content/legal/bodies/privacy.json": {
+    "mtime": 1791903571.700526,
+    "ast_hash": "b944e209856639b86f57a5f8cfbfed03",
+    "semantic_hash": ""
+  },
+  "src/content/legal/bodies/rights.json": {
+    "mtime": 1791903571.7011607,
+    "ast_hash": "183b4bcd2b99e3360ef7f9f60087200b",
+    "semantic_hash": ""
+  },
+  "src/content/legal/bodies/security.json": {
+    "mtime": 1791903571.700836,
+    "ast_hash": "6914508ac5ecb991db23aee5306c78be",
+    "semantic_hash": ""
+  },
+  "src/content/legal/bodies/terms.json": {
+    "mtime": 1791903571.7010396,
+    "ast_hash": "918bf59a9760662b9595b85a4196c8bd",
+    "semantic_hash": ""
+  },
+  "src/content/legal/index.json": {
+    "mtime": 1791901244.029504,
+    "ast_hash": "88a884f624bec97f3c8d19810e2ee359",
+    "semantic_hash": ""
+  },
+  "src/content/pricing.ts": {
+    "mtime": 1791901244.0204992,
+    "ast_hash": "892531a0072f94849c4fc2577aec4b6d",
+    "semantic_hash": ""
+  },
+  "src/content/tiktok-shop.ts": {
+    "mtime": 1791901244.0210612,
+    "ast_hash": "a9452013fb518ba07b0a8d57e1607514",
+    "semantic_hash": ""
+  },
+  "src/content/warmed-tiktok-accounts.ts": {
+    "mtime": 1791901244.031106,
+    "ast_hash": "afa61d48e387ec34c5f06ee797a7288b",
+    "semantic_hash": ""
+  },
+  "src/lib/articles.ts": {
+    "mtime": 1791899122.5867739,
+    "ast_hash": "1c8045d45169196a7590daec908884ba",
+    "semantic_hash": ""
+  },
+  "src/lib/creator-reel.ts": {
+    "mtime": 1791901292.681375,
+    "ast_hash": "92b5fa9a5ce67e0d17ef511f1719ca4a",
+    "semantic_hash": ""
+  },
+  "src/lib/legal.ts": {
+    "mtime": 1791898549.9896653,
+    "ast_hash": "7f5d9dffe456ae6f80413bbd594885a1",
+    "semantic_hash": ""
+  },
+  "src/lib/seo.ts": {
+    "mtime": 1791901244.0324967,
+    "ast_hash": "f28cfd213f50bacdef3b2df4e4633ef7",
+    "semantic_hash": ""
+  },
+  "src/lib/utils.ts": {
+    "mtime": 1791898761.3938181,
+    "ast_hash": "b817b00b131c6961ab6edf91b1b08719",
+    "semantic_hash": ""
+  },
+  "src/routeTree.gen.ts": {
+    "mtime": 1791903264.454361,
+    "ast_hash": "d023cbbf6c551a5a5f92ffdb30363841",
+    "semantic_hash": ""
+  },
+  "src/router.tsx": {
+    "mtime": 1791898639.2270184,
+    "ast_hash": "130d15eac4c2448dad8ef90035f5c09f",
+    "semantic_hash": ""
+  },
+  "src/routes/__root.tsx": {
+    "mtime": 1791898129.0049396,
+    "ast_hash": "3ff7c41638bdeba94f0ad5e6cfb8d97c",
+    "semantic_hash": ""
+  },
+  "src/routes/agency.tsx": {
+    "mtime": 1791901244.0259032,
+    "ast_hash": "d16e45292768349fe01f431a2f309cd1",
+    "semantic_hash": ""
+  },
+  "src/routes/blog.$slug.tsx": {
+    "mtime": 1791898494.9100294,
+    "ast_hash": "525e7c15e889ec8159eecffe3e6c224e",
+    "semantic_hash": ""
+  },
+  "src/routes/blog.index.tsx": {
+    "mtime": 1791898494.9085193,
+    "ast_hash": "5bb3ffcb8a2ad3f104d7185f0528ba06",
+    "semantic_hash": ""
+  },
+  "src/routes/creator-marketplace.tsx": {
+    "mtime": 1791898761.3799486,
+    "ast_hash": "385f647c6855ed547a54e8d8725bede9",
+    "semantic_hash": ""
+  },
+  "src/routes/creators.tsx": {
+    "mtime": 1791901244.025798,
+    "ast_hash": "4595c4e33a74abc3a210c00abff9d0eb",
+    "semantic_hash": ""
+  },
+  "src/routes/how-it-works.tsx": {
+    "mtime": 1791901244.0267282,
+    "ast_hash": "e9478b56c753092d8f5bd99af90d5e5a",
+    "semantic_hash": ""
+  },
+  "src/routes/index.tsx": {
+    "mtime": 1791901244.033023,
+    "ast_hash": "7d5d925f9b4d84688bb500d6d8f83243",
+    "semantic_hash": ""
+  },
+  "src/routes/legal.$slug.tsx": {
+    "mtime": 1791898571.985884,
+    "ast_hash": "b87988e480ff6e5942a23281fe581f67",
+    "semantic_hash": ""
+  },
+  "src/routes/legal.index.tsx": {
+    "mtime": 1791901244.0269895,
+    "ast_hash": "5aa3878132520915eacac3cec0fe5a47",
+    "semantic_hash": ""
+  },
+  "src/routes/pricing.tsx": {
+    "mtime": 1791901244.0256064,
+    "ast_hash": "35d5c4d3f751f93c80a5e75602fd0194",
+    "semantic_hash": ""
+  },
+  "src/routes/resources.$slug.tsx": {
+    "mtime": 1791899122.5870051,
+    "ast_hash": "bb5d0f87e25c166a16e3d449ebf77efd",
+    "semantic_hash": ""
+  },
+  "src/routes/resources.index.tsx": {
+    "mtime": 1791901244.0262785,
+    "ast_hash": "7b29c3560bc4490a233d57fc245c12dd",
+    "semantic_hash": ""
+  },
+  "src/routes/tiktok-affiliate-management.tsx": {
+    "mtime": 1791898438.2050893,
+    "ast_hash": "ed46ee08a0bb67b8913862d2d5113794",
+    "semantic_hash": ""
+  },
+  "src/routes/tiktok-creator-database.tsx": {
+    "mtime": 1791898438.2051392,
+    "ast_hash": "c39d280d529b6da4f9dad88c3426b4d7",
+    "semantic_hash": ""
+  },
+  "src/routes/tiktok-shop-agency-beauty.tsx": {
+    "mtime": 1791898438.2051845,
+    "ast_hash": "7766d2cfb90d2b4c66c6f7088f2703b6",
+    "semantic_hash": ""
+  },
+  "src/routes/tiktok-shop-agency-fashion.tsx": {
+    "mtime": 1791898438.2052865,
+    "ast_hash": "e7823204ccc51e35d87b29cdcc04c3a5",
+    "semantic_hash": ""
+  },
+  "src/routes/tiktok-shop-agency-food.tsx": {
+    "mtime": 1791898438.2054048,
+    "ast_hash": "695ce4ce6e88ee7694a64480bdc8f139",
+    "semantic_hash": ""
+  },
+  "src/routes/tiktok-shop-agency-home.tsx": {
+    "mtime": 1791898438.2053442,
+    "ast_hash": "76c3bcc78e93f4d24d2e8a64436f9f75",
+    "semantic_hash": ""
+  },
+  "src/routes/tiktok-shop-agency-supplements.tsx": {
+    "mtime": 1791898438.2052286,
+    "ast_hash": "9587daebeb0b58c9b1355d5113dd60f8",
+    "semantic_hash": ""
+  },
+  "src/routes/tiktok-shop-marketing-agency.tsx": {
+    "mtime": 1791898438.2050014,
+    "ast_hash": "8e556afdb13cc83c88e614067e936f7e",
+    "semantic_hash": ""
+  },
+  "src/routes/tiktok-shop.tsx": {
+    "mtime": 1791901244.0265398,
+    "ast_hash": "29c6c7d8791daafa06e55349c113161a",
+    "semantic_hash": ""
+  },
+  "src/routes/warmed-tiktok-accounts.tsx": {
+    "mtime": 1791898761.6160007,
+    "ast_hash": "04635a55a4f90190416d0165b0e03b97",
+    "semantic_hash": ""
+  },
+  "tsconfig.json": {
+    "mtime": 1791897563.0236034,
+    "ast_hash": "bd7ff6b024d457172d243f16c1c652e0",
+    "semantic_hash": ""
+  },
+  "tsr.config.json": {
+    "mtime": 1791896575.9923966,
+    "ast_hash": "4dc291441d5d099fab16c9a82306f4d1",
+    "semantic_hash": ""
+  },
+  "vite.config.ts": {
+    "mtime": 1791903264.3341393,
+    "ast_hash": "e99941eb321e19d015730cc632e8cc31",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1791903291.931853,
+    "ast_hash": "748f04ff00210c5b0b71238030a92738",
+    "semantic_hash": ""
+  },
+  "pnpm-workspace.yaml": {
+    "mtime": 1791896575.951171,
+    "ast_hash": "c151c088520029bda37644b83b00765c",
+    "semantic_hash": ""
+  },
+  "public/robots.txt": {
+    "mtime": 1791901244.0304277,
+    "ast_hash": "0d94d5c018aaa5c54605530aad1b7180",
+    "semantic_hash": ""
+  },
+  "public/apple-icon.png": {
+    "mtime": 1791896931.9792502,
+    "ast_hash": "36cef624dbeba34bcbfef0ae03053f3b",
+    "semantic_hash": ""
+  },
+  "public/icon.png": {
+    "mtime": 1791896931.4663975,
+    "ast_hash": "d17b7bb283fee78f29636bff118cc13d",
+    "semantic_hash": ""
+  },
+  "public/og.jpg": {
+    "mtime": 1791896932.5780995,
+    "ast_hash": "6079f068cab2ce32a9482d8b31dca6e3",
+    "semantic_hash": ""
+  },
+  "public/product/accounts.png": {
+    "mtime": 1791896941.2443473,
+    "ast_hash": "51b66d1f766751e4fe8843524dea8f6a",
+    "semantic_hash": ""
+  },
+  "public/vc/360-one.svg": {
+    "mtime": 1791896933.5550811,
+    "ast_hash": "70cedd82cb3a0e504497eef224ff5ddd",
+    "semantic_hash": ""
+  },
+  "public/vc/3one4.svg": {
+    "mtime": 1791896934.1177552,
+    "ast_hash": "0aca3e802c0ef18c8f875cca29a7f11b",
+    "semantic_hash": ""
+  },
+  "public/vc/elev8.webp": {
+    "mtime": 1791896934.600963,
+    "ast_hash": "af44ec941ff609596b3909314256b0c0",
+    "semantic_hash": ""
+  },
+  "public/vc/fireside.png": {
+    "mtime": 1791896935.1630523,
+    "ast_hash": "7d15b391b45d704b5ad9f057943b4477",
+    "semantic_hash": ""
+  },
+  "public/vc/left-lane.svg": {
+    "mtime": 1791896935.6524057,
+    "ast_hash": "40745d2bf729eda1c597eed6550ad47d",
+    "semantic_hash": ""
+  },
+  "public/vc/rpsg.png": {
+    "mtime": 1791896936.2073855,
+    "ast_hash": "6617eaef0408a4c2686f8de4c1d4b35b",
+    "semantic_hash": ""
+  },
+  "public/vc/sixth-sense.svg": {
+    "mtime": 1791896936.7062793,
+    "ast_hash": "bbde7d95d86bde44570496e9f52b215e",
+    "semantic_hash": ""
+  },
+  "public/vc/vertex.png": {
+    "mtime": 1791896937.3060024,
+    "ast_hash": "ce186583e4e0ca6300ca8e001ade31be",
+    "semantic_hash": ""
+  },
+  "public/vc/vmg.png": {
+    "mtime": 1791896937.7489705,
+    "ast_hash": "4d0dd62a15172c674f73e060ca8f8a63",
+    "semantic_hash": ""
+  },
+  "src/components/shared/call-band.tsx": {
+    "mtime": 1791898412.7072043,
+    "ast_hash": "168e073f964c5ac963b48be7d466d2a0",
+    "semantic_hash": ""
+  },
+  "src/components/shared/shield-note.tsx": {
+    "mtime": 1791898412.705645,
+    "ast_hash": "29229482d33bafe2ba6162c2d6c9df32",
+    "semantic_hash": ""
+  },
+  "src/components/shared/step-marker.tsx": {
+    "mtime": 1791898761.3931665,
+    "ast_hash": "8992a3a611ad41b38ea02fa88d66fe8c",
+    "semantic_hash": ""
+  },
+  "src/components/shared/tick-list.tsx": {
+    "mtime": 1791898761.3930974,
+    "ast_hash": "1d345659feb118fe2dc8035e5d01c74d",
+    "semantic_hash": ""
+  },
+  "public/blog-images/best-colaba-alternatives.webp": {
+    "mtime": 1791899084.421657,
+    "ast_hash": "823df9be9638249a28127d332d877fac",
+    "semantic_hash": ""
+  },
+  "public/blog-images/best-cruva-alternatives.webp": {
+    "mtime": 1791899084.5256903,
+    "ast_hash": "290638f29c0d1f0ec90c57c135d04bc6",
+    "semantic_hash": ""
+  },
+  "public/blog-images/best-euka-alternatives.webp": {
+    "mtime": 1791899084.618815,
+    "ast_hash": "eab8ab56b284eba682af4a92770f99af",
+    "semantic_hash": ""
+  },
+  "public/blog-images/best-joinbrands-alternatives.webp": {
+    "mtime": 1791899084.7122293,
+    "ast_hash": "ddd9a67dd3fbe195d244d1c98e7eee91",
+    "semantic_hash": ""
+  },
+  "public/blog-images/best-reacher-alternatives.webp": {
+    "mtime": 1791899084.814375,
+    "ast_hash": "bfc4ca66c3e2a029b18b9828a4c9ee4c",
+    "semantic_hash": ""
+  },
+  "public/blog-images/best-tiktok-shop-affiliate-software.webp": {
+    "mtime": 1791899084.919514,
+    "ast_hash": "8de830063469ce7f412ce527ea100745",
+    "semantic_hash": ""
+  },
+  "public/blog-images/best-tiktok-shop-categories.webp": {
+    "mtime": 1791899085.023543,
+    "ast_hash": "e82792fd6233fc5500438650231e5bcd",
+    "semantic_hash": ""
+  },
+  "public/blog-images/best-tiktok-shop-marketing-agencies.webp": {
+    "mtime": 1791899085.1284807,
+    "ast_hash": "291ef47dac052c9c8907fe48ffd7940b",
+    "semantic_hash": ""
+  },
+  "public/blog-images/best-uptk-alternatives.webp": {
+    "mtime": 1791899085.2356381,
+    "ast_hash": "cd893d80f22ba32d101f5af4cd6116e8",
+    "semantic_hash": ""
+  },
+  "public/blog-images/free-vs-paid-tiktok-creator-search.webp": {
+    "mtime": 1791899085.3384378,
+    "ast_hash": "8f9d3183d1e34a5051d05fceaf99c0dc",
+    "semantic_hash": ""
+  },
+  "public/blog-images/full-service-vs-affiliate-only-tiktok-agencies.webp": {
+    "mtime": 1791899085.435744,
+    "ast_hash": "a8583855af721f94c44f5c2e52377e96",
+    "semantic_hash": ""
+  },
+  "public/blog-images/gmv-max-vs-spark-ads.webp": {
+    "mtime": 1791899085.5343556,
+    "ast_hash": "cf7ea24084779a48910a05c3a918f4e4",
+    "semantic_hash": ""
+  },
+  "public/blog-images/how-many-creators-tiktok-shop.webp": {
+    "mtime": 1791899085.642677,
+    "ast_hash": "0c7e668c267510ed143ad4e706f2ca67",
+    "semantic_hash": ""
+  },
+  "public/blog-images/how-to-choose-a-tiktok-shop-agency.webp": {
+    "mtime": 1791899085.7359443,
+    "ast_hash": "b9a9eda244d6f779ccc625efc4e24fa2",
+    "semantic_hash": ""
+  },
+  "public/blog-images/how-to-find-tiktok-shop-creators.webp": {
+    "mtime": 1791899085.8422835,
+    "ast_hash": "ce9bad2f557a38b08c3e35d9f192a4a5",
+    "semantic_hash": ""
+  },
+  "public/blog-images/how-to-get-more-views-tiktok.webp": {
+    "mtime": 1791899085.9410424,
+    "ast_hash": "78b1ca1d873528c5d422b4e223d9cf9d",
+    "semantic_hash": ""
+  },
+  "public/blog-images/how-to-recruit-tiktok-affiliates.webp": {
+    "mtime": 1791899086.052041,
+    "ast_hash": "dd50ae8553422fe0f991248b4a11aa52",
+    "semantic_hash": ""
+  },
+  "public/blog-images/how-to-vet-tiktok-creators.webp": {
+    "mtime": 1791899086.1527405,
+    "ast_hash": "3ecdb5d3535c665145f18e96c377fea5",
+    "semantic_hash": ""
+  },
+  "public/blog-images/landing-tiktok-affiliate-management.webp": {
+    "mtime": 1791899086.2671058,
+    "ast_hash": "5be0f6a089621b969d4d6e7e0c8bbda6",
+    "semantic_hash": ""
+  },
+  "public/blog-images/landing-tiktok-creator-database.webp": {
+    "mtime": 1791899086.380336,
+    "ast_hash": "17b69a824a206441eaca637e300fedea",
+    "semantic_hash": ""
+  },
+  "public/blog-images/landing-tiktok-shop-agency-beauty.webp": {
+    "mtime": 1791899086.4975963,
+    "ast_hash": "b90a0466822660e304dcc5ea41bb6527",
+    "semantic_hash": ""
+  },
+  "public/blog-images/landing-tiktok-shop-agency-fashion.webp": {
+    "mtime": 1791899086.6298237,
+    "ast_hash": "ad4e5886bc984bb96a46b4a1de71dee6",
+    "semantic_hash": ""
+  },
+  "public/blog-images/landing-tiktok-shop-agency-food.webp": {
+    "mtime": 1791899086.7582011,
+    "ast_hash": "90aea6e6c8d05a7118c84f306dbb4870",
+    "semantic_hash": ""
+  },
+  "public/blog-images/landing-tiktok-shop-agency-home.webp": {
+    "mtime": 1791899086.8855512,
+    "ast_hash": "fba3a7a2649356482d1e15472f63af9d",
+    "semantic_hash": ""
+  },
+  "public/blog-images/landing-tiktok-shop-agency-supplements.webp": {
+    "mtime": 1791899087.0292943,
+    "ast_hash": "fcde1f539e5c63f5e5d34fd1d3050792",
+    "semantic_hash": ""
+  },
+  "public/blog-images/landing-tiktok-shop-marketing-agency.webp": {
+    "mtime": 1791899087.2015111,
+    "ast_hash": "fe6a23e4c43ada4af198ffafeb389a3a",
+    "semantic_hash": ""
+  },
+  "public/blog-images/micro-vs-macro-creators-tiktok.webp": {
+    "mtime": 1791899087.416178,
+    "ast_hash": "c65e7faf587f18187ef5a31c36dfd5bb",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/best-colaba-alternatives.jpg": {
+    "mtime": 1791899084.45301,
+    "ast_hash": "f2c58ccd4bb7fad86dc6c2e5193e7a4d",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/best-cruva-alternatives.jpg": {
+    "mtime": 1791899084.554453,
+    "ast_hash": "079fa13c37a2e09b9e4df689258a52a0",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/best-euka-alternatives.jpg": {
+    "mtime": 1791899084.6457756,
+    "ast_hash": "7bc3468bee3c4911f0f06b5cdee3b8a4",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/best-joinbrands-alternatives.jpg": {
+    "mtime": 1791899084.7391937,
+    "ast_hash": "69e640ac2a5f2492b2cc759cec5a621b",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/best-reacher-alternatives.jpg": {
+    "mtime": 1791899084.8441157,
+    "ast_hash": "47f2aa6f891927ffc6ac9a329e445425",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/best-tiktok-shop-affiliate-software.jpg": {
+    "mtime": 1791899084.948364,
+    "ast_hash": "1e21f774d1521f69f48aa0d634535d83",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/best-tiktok-shop-categories.jpg": {
+    "mtime": 1791899085.0527956,
+    "ast_hash": "0304309cceebed20465d32aa328660ac",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/best-tiktok-shop-marketing-agencies.jpg": {
+    "mtime": 1791899085.156534,
+    "ast_hash": "1dd310fbc2da8612f82abf61e7b18c58",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/best-uptk-alternatives.jpg": {
+    "mtime": 1791899085.2655866,
+    "ast_hash": "508ed476fd3761c9ed97a622e140cd35",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/free-vs-paid-tiktok-creator-search.jpg": {
+    "mtime": 1791899085.3669155,
+    "ast_hash": "cf2d5b646187d58aa44408aa7b52dd0c",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/full-service-vs-affiliate-only-tiktok-agencies.jpg": {
+    "mtime": 1791899085.4632068,
+    "ast_hash": "a768eb784e0b8cb8290c8ffb41f7ebec",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/gmv-max-vs-spark-ads.jpg": {
+    "mtime": 1791899085.5623384,
+    "ast_hash": "b676774538e85cc60981655378bcd63a",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/how-many-creators-tiktok-shop.jpg": {
+    "mtime": 1791899085.6716857,
+    "ast_hash": "f55571edc7e84174bfa865aa6f8dc5f6",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/how-to-choose-a-tiktok-shop-agency.jpg": {
+    "mtime": 1791899085.7625825,
+    "ast_hash": "7bf5e3ddc805adb5b2ac282767e7e34d",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/how-to-find-tiktok-shop-creators.jpg": {
+    "mtime": 1791899085.8716822,
+    "ast_hash": "64fb2485f43158092c0a1e0d2f8d1ec8",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/how-to-get-more-views-tiktok.jpg": {
+    "mtime": 1791899085.9689016,
+    "ast_hash": "4ac4f99ff4694b21708a6b31aec581df",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/how-to-recruit-tiktok-affiliates.jpg": {
+    "mtime": 1791899086.0835476,
+    "ast_hash": "d4aa7e0c167311ac97d798d173c4c381",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/how-to-vet-tiktok-creators.jpg": {
+    "mtime": 1791899086.1807127,
+    "ast_hash": "fe830480617fd1844022d90d0a6d8421",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/micro-vs-macro-creators-tiktok.jpg": {
+    "mtime": 1791899087.480829,
+    "ast_hash": "9771cd5d3788297fe53321afaa15c450",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/open-vs-target-collaboration-tiktok.jpg": {
+    "mtime": 1791899087.7696483,
+    "ast_hash": "67ee06e6cdda2873b4a3e133f565e5c5",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/questions-to-ask-tiktok-marketing-agency.jpg": {
+    "mtime": 1791899088.0694616,
+    "ast_hash": "39b2296973bd0dc1029459fb9ac0cb60",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/reacher-vs-euka-vs-cruva.jpg": {
+    "mtime": 1791899088.460646,
+    "ast_hash": "9c982a0c877a30c7e8c324f7834e9890",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/reactivate-tiktok-affiliates.jpg": {
+    "mtime": 1791899088.8266554,
+    "ast_hash": "ab08e649e0a27c0349766a1b198a405a",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/revenue-share-creator-deals.jpg": {
+    "mtime": 1791899089.0944006,
+    "ast_hash": "4cbd66705ffc0453472e7a1951a5b1b4",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-affiliate-center-alternatives.jpg": {
+    "mtime": 1791899089.4334056,
+    "ast_hash": "6187604b1dca1ca0092bb9e66795989e",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-affiliate-commission-rate.jpg": {
+    "mtime": 1791899089.760606,
+    "ast_hash": "af867a2fa38779bff419311334d938b4",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-affiliate-management-diy-software-agency.jpg": {
+    "mtime": 1791899089.975915,
+    "ast_hash": "fd90f6ec67c0783942db9d724c890444",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-affiliate-outreach-tools.jpg": {
+    "mtime": 1791899090.1893003,
+    "ast_hash": "ae97610b1cf47caf8a8e68dd9baa4c35",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-creator-brief-template.jpg": {
+    "mtime": 1791899090.3522842,
+    "ast_hash": "c128caacb482c936d9c40dcf7393292c",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-creator-crm.jpg": {
+    "mtime": 1791899090.5471332,
+    "ast_hash": "4347a73466d2d3d9dd0e9f17bbb58397",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-creator-discovery-tools.jpg": {
+    "mtime": 1791899090.7334013,
+    "ast_hash": "e897ef1517ccf3418ea6a2036847d4fd",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-creator-outreach-templates.jpg": {
+    "mtime": 1791899090.9031074,
+    "ast_hash": "50d46c796073dc7946382c0f8333dbe3",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-creator-roster.jpg": {
+    "mtime": 1791899091.0918548,
+    "ast_hash": "cd60dd1f75c2d9af3eecae7fbe355817",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-creator-samples.jpg": {
+    "mtime": 1791899091.2520332,
+    "ast_hash": "1f334db8a6dc77c119a335922032747b",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-creator-seeding.jpg": {
+    "mtime": 1791899091.4276805,
+    "ast_hash": "ccbe04773bb5aaa16009e43f6951ee59",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-engagement-rate-benchmark.jpg": {
+    "mtime": 1791899091.5734766,
+    "ast_hash": "804f24c649e9367e2ddfcb9bc71e8329",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-marketing-agency-cost.jpg": {
+    "mtime": 1791899091.7240067,
+    "ast_hash": "49ab0ab33c73e2ad65c79f9e6eab6f4f",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-product-video-script.jpg": {
+    "mtime": 1791899091.9047265,
+    "ast_hash": "32112c162d8ddba4ba0538af552f0828",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-shop-affiliate-center.jpg": {
+    "mtime": 1791899092.0821345,
+    "ast_hash": "e2ed9d5c41b0fb9733113db6cba79114",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-shop-affiliate-commission.jpg": {
+    "mtime": 1791899092.2190528,
+    "ast_hash": "6cb87d671aa8c846e9acb5b9a3696d3a",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-shop-affiliate-statistics.jpg": {
+    "mtime": 1791899092.3736234,
+    "ast_hash": "b5b147e13283aa16a49cd469cf1b07b1",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-shop-agency-vs-in-house.jpg": {
+    "mtime": 1791899092.5470545,
+    "ast_hash": "35450f1d9d61594713fe187fbb2efe11",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-shop-analytics-tools.jpg": {
+    "mtime": 1791899092.7316887,
+    "ast_hash": "b047291934270a09a5984d19e65b17eb",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-shop-automation-tools.jpg": {
+    "mtime": 1791899092.8897765,
+    "ast_hash": "fe51fd42c4f593433231ff152924a6ac",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-shop-case-study.jpg": {
+    "mtime": 1791899093.0643618,
+    "ast_hash": "ade72d6b5100b189fde67573ec181ca4",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-shop-commission-rates.jpg": {
+    "mtime": 1791899093.2779143,
+    "ast_hash": "2931c756f43db000a85187423fd2310b",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-shop-gmv-max.jpg": {
+    "mtime": 1791899093.4911115,
+    "ast_hash": "6e381e1bb64cebff85d282514e0d716e",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-shop-growth-strategy.jpg": {
+    "mtime": 1791899093.6742506,
+    "ast_hash": "b3d05af71abcc322959c7d0b5c9f98cf",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-shop-live-selling.jpg": {
+    "mtime": 1791899093.910947,
+    "ast_hash": "d425522e0158a472c4696c2dfa871aab",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-shop-marketing-guide.jpg": {
+    "mtime": 1791899094.0667608,
+    "ast_hash": "8086141f4c8464be55514f9926cb91c6",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tiktok-shop-mistakes.jpg": {
+    "mtime": 1791899094.254062,
+    "ast_hash": "2992fce886562f2cf2784ec413350149",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tokgency-vs-colaba.jpg": {
+    "mtime": 1791899094.446538,
+    "ast_hash": "037458bdba7f4fffabe66ea32c6dc5c0",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tokgency-vs-cruva.jpg": {
+    "mtime": 1791899094.6534786,
+    "ast_hash": "354782dd9829478428b4718a49375a19",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tokgency-vs-euka.jpg": {
+    "mtime": 1791899094.8218498,
+    "ast_hash": "0d8ef0682f652776d11dce97ce21b9b7",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tokgency-vs-in-house-creator-manager.jpg": {
+    "mtime": 1791899094.9878995,
+    "ast_hash": "0fa1c5e873372ce6b128fae687e38706",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tokgency-vs-joinbrands.jpg": {
+    "mtime": 1791899095.2014303,
+    "ast_hash": "9922290a8ce21270d02aa828fc0d1439",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tokgency-vs-reacher.jpg": {
+    "mtime": 1791899095.3818834,
+    "ast_hash": "48385ecfffee9fbcbf9ebac7605f4afa",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/tokgency-vs-uptk.jpg": {
+    "mtime": 1791899095.5717602,
+    "ast_hash": "2114acbb37d3f5e50ef436c7745af39f",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/ugc-creator-platforms.jpg": {
+    "mtime": 1791899095.7941236,
+    "ast_hash": "ff21c951360849b9e1ca3689dfd2e84c",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/ugc-hook-formulas.jpg": {
+    "mtime": 1791899095.9423404,
+    "ast_hash": "6f0f7617d454a3e9b8def04f75ce7f29",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/what-does-a-tiktok-shop-marketing-agency-do.jpg": {
+    "mtime": 1791899096.117165,
+    "ast_hash": "6d36d17f4c0e29ef82f16bffd0062575",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/what-is-gmv-on-tiktok-shop.jpg": {
+    "mtime": 1791899096.2857857,
+    "ast_hash": "fbe68db5396f30bddf41fe426c38281f",
+    "semantic_hash": ""
+  },
+  "public/blog-images/og/when-to-hire-a-tiktok-shop-agency.jpg": {
+    "mtime": 1791899096.4405887,
+    "ast_hash": "bb53d725905038170b0f93e625d36ba3",
+    "semantic_hash": ""
+  },
+  "public/blog-images/open-vs-target-collaboration-tiktok.webp": {
+    "mtime": 1791899087.6752582,
+    "ast_hash": "34033b66bbca431280ec77c3346c471f",
+    "semantic_hash": ""
+  },
+  "public/blog-images/questions-to-ask-tiktok-marketing-agency.webp": {
+    "mtime": 1791899087.9726014,
+    "ast_hash": "1b7049da0ab9fc5d5e8028a5fc06bf59",
+    "semantic_hash": ""
+  },
+  "public/blog-images/reacher-vs-euka-vs-cruva.webp": {
+    "mtime": 1791899088.3465312,
+    "ast_hash": "4fa258ad94a72f785589e1c0254763c5",
+    "semantic_hash": ""
+  },
+  "public/blog-images/reactivate-tiktok-affiliates.webp": {
+    "mtime": 1791899088.7262669,
+    "ast_hash": "4bb26f78d75accbca3484d522bdf7f35",
+    "semantic_hash": ""
+  },
+  "public/blog-images/revenue-share-creator-deals.webp": {
+    "mtime": 1791899089.0105233,
+    "ast_hash": "3c636cf68342d2f4877868a0633227c5",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-affiliate-center-alternatives.webp": {
+    "mtime": 1791899089.3402252,
+    "ast_hash": "f5dc9ca79e091aeaa61c732eda8a58e0",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-affiliate-commission-rate.webp": {
+    "mtime": 1791899089.6863286,
+    "ast_hash": "1f8334196284100daa81ccde558276a5",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-affiliate-management-diy-software-agency.webp": {
+    "mtime": 1791899089.9129274,
+    "ast_hash": "af241be62dff4ee6970d95409aec3b2c",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-affiliate-outreach-tools.webp": {
+    "mtime": 1791899090.1331239,
+    "ast_hash": "ac9999a6f4427419d570e6f88a436253",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-creator-brief-template.webp": {
+    "mtime": 1791899090.3065019,
+    "ast_hash": "1613804bb2e4f99d2533a4ae52c20ad1",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-creator-crm.webp": {
+    "mtime": 1791899090.4963486,
+    "ast_hash": "7f66a9d647b5504610ff269ee39e0d38",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-creator-discovery-tools.webp": {
+    "mtime": 1791899090.6856065,
+    "ast_hash": "5af290776e9208d8fcb827fd7f054cc3",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-creator-outreach-templates.webp": {
+    "mtime": 1791899090.8574107,
+    "ast_hash": "711e51359b845c321d4dc588b05d999d",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-creator-roster.webp": {
+    "mtime": 1791899091.044317,
+    "ast_hash": "ae5a2b5d5e92b924e2fd36e8615b3460",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-creator-samples.webp": {
+    "mtime": 1791899091.207266,
+    "ast_hash": "b190f06a046c8ec33ec171881d71565f",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-creator-seeding.webp": {
+    "mtime": 1791899091.3811018,
+    "ast_hash": "cceed244de7b3b6ad82312410bc0ed3f",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-engagement-rate-benchmark.webp": {
+    "mtime": 1791899091.5309272,
+    "ast_hash": "a96589678ad12adbe7360089fd685175",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-marketing-agency-cost.webp": {
+    "mtime": 1791899091.6802087,
+    "ast_hash": "3f8d244b0192950a450019f695d046a4",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-product-video-script.webp": {
+    "mtime": 1791899091.85683,
+    "ast_hash": "e866c30615cc890cfd13db60d8495b3b",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-shop-affiliate-center.webp": {
+    "mtime": 1791899092.0349407,
+    "ast_hash": "aef630b8c780d898fc0dcfff97865acd",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-shop-affiliate-commission.webp": {
+    "mtime": 1791899092.178256,
+    "ast_hash": "91b63c82c4595c32535a0097a9a8c809",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-shop-affiliate-statistics.webp": {
+    "mtime": 1791899092.3289046,
+    "ast_hash": "b9e2ef6ac7de6fdd2a7af92a5fb3e217",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-shop-agency-vs-in-house.webp": {
+    "mtime": 1791899092.500895,
+    "ast_hash": "95e06cf6c6505069fe78d31554ce844a",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-shop-analytics-tools.webp": {
+    "mtime": 1791899092.6827297,
+    "ast_hash": "db575c7ce3de06664f0d381aba532034",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-shop-automation-tools.webp": {
+    "mtime": 1791899092.8450615,
+    "ast_hash": "888027a7e3d427d9509083f3bc016ef7",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-shop-case-study.webp": {
+    "mtime": 1791899093.0151386,
+    "ast_hash": "d7fc2695ff916e811ef8f073e52eec43",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-shop-commission-rates.webp": {
+    "mtime": 1791899093.2189064,
+    "ast_hash": "87a3d24de36b08df1c34eb25cb5193ea",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-shop-gmv-max.webp": {
+    "mtime": 1791899093.4338744,
+    "ast_hash": "283ccbdd459430a9f4103121e07375cc",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-shop-growth-strategy.webp": {
+    "mtime": 1791899093.6222093,
+    "ast_hash": "914f986bdcde8bb16f0c333f0bc2a393",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-shop-live-selling.webp": {
+    "mtime": 1791899093.8498921,
+    "ast_hash": "44389859d901a3859c060be9822c2371",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-shop-marketing-guide.webp": {
+    "mtime": 1791899094.023427,
+    "ast_hash": "63d5e8b9a36d4037743618d96eeb1569",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tiktok-shop-mistakes.webp": {
+    "mtime": 1791899094.1996508,
+    "ast_hash": "1385d749a20209fa9e41a67a38a1b30c",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tokgency-vs-colaba.webp": {
+    "mtime": 1791899094.3926086,
+    "ast_hash": "2bf4e66fa62754519a9c8b7813a8bced",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tokgency-vs-cruva.webp": {
+    "mtime": 1791899094.6016676,
+    "ast_hash": "3962c327467ecee938d7b72eb6ba405b",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tokgency-vs-euka.webp": {
+    "mtime": 1791899094.774213,
+    "ast_hash": "00b5da3263d25af471420037fd084ad3",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tokgency-vs-in-house-creator-manager.webp": {
+    "mtime": 1791899094.9424086,
+    "ast_hash": "8be157761a1a0692efcfd32692ea7b81",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tokgency-vs-joinbrands.webp": {
+    "mtime": 1791899095.1431777,
+    "ast_hash": "12836a463f0af4bda2dc7da6d17f914d",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tokgency-vs-reacher.webp": {
+    "mtime": 1791899095.3301098,
+    "ast_hash": "67ad391df4bcf4c7a3ae6ba1aaab4e43",
+    "semantic_hash": ""
+  },
+  "public/blog-images/tokgency-vs-uptk.webp": {
+    "mtime": 1791899095.522861,
+    "ast_hash": "7fcc1f72cad2f011437b6df0a21e0085",
+    "semantic_hash": ""
+  },
+  "public/blog-images/ugc-creator-platforms.webp": {
+    "mtime": 1791899095.7382393,
+    "ast_hash": "46eb249fadc30c84899cae69372a79a3",
+    "semantic_hash": ""
+  },
+  "public/blog-images/ugc-hook-formulas.webp": {
+    "mtime": 1791899095.899758,
+    "ast_hash": "32cd34f7774e1b24354a47ae6deb227a",
+    "semantic_hash": ""
+  },
+  "public/blog-images/what-does-a-tiktok-shop-marketing-agency-do.webp": {
+    "mtime": 1791899096.0713377,
+    "ast_hash": "fa2a3d1af5b51bc628882b9a3a3fd925",
+    "semantic_hash": ""
+  },
+  "public/blog-images/what-is-gmv-on-tiktok-shop.webp": {
+    "mtime": 1791899096.236542,
+    "ast_hash": "4b4d249d5f270352e494aa9c0790a245",
+    "semantic_hash": ""
+  },
+  "public/blog-images/when-to-hire-a-tiktok-shop-agency.webp": {
+    "mtime": 1791899096.395346,
+    "ast_hash": "a3db547bfd3fa64565f4629aae5fe03e",
+    "semantic_hash": ""
+  },
+  "src/components/motion/use-settled-reduced-motion.ts": {
+    "mtime": 1791900579.2453516,
+    "ast_hash": "454f0f22bda61111e6ccf4fff268e128",
+    "semantic_hash": ""
+  },
+  "src/routes/404.tsx": {
+    "mtime": 1791903264.305701,
+    "ast_hash": "58f9dfba08ee0a5b3bbf4a72a939dab7",
+    "semantic_hash": ""
+  }
+}

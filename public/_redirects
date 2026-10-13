@@ -1,0 +1,2 @@
+/blog /resources 308
+/blog/* /resources/:splat 308

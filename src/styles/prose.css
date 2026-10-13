@@ -1,0 +1,131 @@
+/* Long-form article and legal typography. */
+.prose-tkg {
+	max-width: 68ch;
+	color: var(--foreground);
+	font-size: 1.0625rem;
+	line-height: 1.75;
+}
+
+.prose-tkg > * + * {
+	margin-top: 1.25rem;
+}
+
+.prose-tkg h2 {
+	margin-top: 2.75rem;
+	margin-bottom: 0.25rem;
+	scroll-margin-top: 6rem;
+	font-family: var(--font-display);
+	font-size: clamp(1.6rem, 3vw, 2rem);
+	font-weight: 600;
+	letter-spacing: -0.035em;
+}
+
+.prose-tkg h3 {
+	margin-top: 2rem;
+	scroll-margin-top: 6rem;
+	font-family: var(--font-display);
+	font-size: clamp(1.25rem, 2.2vw, 1.5rem);
+	font-weight: 600;
+}
+
+.prose-tkg p,
+.prose-tkg li {
+	color: var(--foreground);
+	opacity: 0.88;
+}
+
+.prose-tkg a {
+	color: var(--accent);
+	text-decoration: underline;
+	text-decoration-thickness: 1px;
+	text-underline-offset: 2px;
+}
+
+.prose-tkg strong {
+	color: var(--foreground);
+	font-weight: 700;
+}
+
+.prose-tkg ul,
+.prose-tkg ol {
+	padding-left: 1.4rem;
+}
+
+.prose-tkg ul {
+	list-style: outside;
+}
+
+.prose-tkg ol {
+	list-style: decimal;
+}
+
+.prose-tkg li {
+	margin-top: 0.5rem;
+}
+
+.prose-tkg li::marker {
+	color: var(--accent);
+}
+
+.prose-tkg blockquote {
+	padding: 0.25rem 0 0.25rem 1.25rem;
+	border-left: 3px solid var(--accent);
+	color: var(--muted);
+	font-style: italic;
+}
+
+.prose-tkg img {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	border-radius: 1rem;
+	box-shadow: var(--elevation-soft);
+}
+
+.prose-tkg code {
+	padding: 0.15em 0.4em;
+	border-radius: 6px;
+	background: var(--surface);
+	font-family: var(--font-mono);
+	font-size: 0.9em;
+}
+
+.prose-tkg pre {
+	padding: 1.1rem 1.25rem;
+	overflow-x: auto;
+	border-radius: 0.9rem;
+	background: var(--contrast);
+	color: var(--on-contrast);
+	font-size: 0.9rem;
+}
+
+.prose-tkg pre code {
+	padding: 0;
+	background: transparent;
+}
+
+.prose-tkg table {
+	display: block;
+	width: 100%;
+	overflow-x: auto;
+	border-collapse: collapse;
+	font-size: 0.95rem;
+}
+
+.prose-tkg th,
+.prose-tkg td {
+	padding: 0.7rem 0.9rem;
+	border-bottom: 1px solid var(--hairline);
+	text-align: left;
+}
+
+.prose-tkg th {
+	background: var(--surface);
+	font-family: var(--font-display);
+	font-weight: 600;
+}
+
+.prose-tkg hr {
+	margin: 2.5rem 0;
+	border: none;
+	border-top: 1px solid var(--hairline);
+}

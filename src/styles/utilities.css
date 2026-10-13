@@ -1,0 +1,188 @@
+/* Brand utilities that have no Tailwind equivalent. */
+
+@utility serif {
+	font-family: var(--font-serif);
+	font-style: italic;
+	font-weight: 400;
+	letter-spacing: -0.02em;
+}
+
+@utility mono-label {
+	font-family: var(--font-mono);
+	font-size: 10px;
+	font-weight: 500;
+	letter-spacing: 0.18em;
+	text-transform: uppercase;
+}
+
+@utility hand {
+	font-family: var(--font-handwriting);
+	font-weight: 600;
+	letter-spacing: 0.01em;
+	line-height: 1.15;
+}
+
+@utility ring-hairline {
+	box-shadow: inset 0 0 0 1px var(--hairline);
+}
+
+@utility text-gradient {
+	color: var(--foreground);
+}
+
+@utility bg-gradient-brand {
+	background: var(--accent);
+}
+
+/* Marker-pen highlight behind a word. */
+@utility hl {
+	display: inline;
+	position: relative;
+	isolation: isolate;
+	white-space: nowrap;
+
+	&::before {
+		content: "";
+		position: absolute;
+		inset: 0.14em -0.18em 0.04em;
+		z-index: -1;
+		background: var(--accent);
+		opacity: 0.3;
+		border-radius: 0.28em 0.6em 0.34em 0.5em / 0.7em 0.35em 0.8em 0.4em;
+		transform: rotate(-1.1deg);
+	}
+}
+
+@utility hl-b {
+	&::before {
+		left: -0.22em;
+		right: -0.14em;
+		border-radius: 0.5em 0.3em 0.6em 0.32em / 0.4em 0.75em 0.38em 0.7em;
+		transform: rotate(0.9deg);
+	}
+}
+
+@utility hl-ink {
+	&::before {
+		background: var(--foreground);
+		opacity: 0.1;
+	}
+}
+
+/* Buttons: the motion lives here so every variant shares one feel. */
+@utility btn-primary {
+	background: var(--primary);
+	color: var(--on-primary);
+	transition:
+		transform 0.25s cubic-bezier(0.22, 1, 0.36, 1),
+		filter 0.25s,
+		box-shadow 0.25s;
+
+	&:hover {
+		filter: brightness(1.08);
+		transform: translateY(-1px);
+	}
+
+	&:active {
+		transform: translateY(0) scale(0.99);
+	}
+}
+
+@utility btn-ghost {
+	background: transparent;
+	color: var(--foreground);
+	box-shadow: inset 0 0 0 1px var(--hairline-strong);
+	transition:
+		transform 0.25s cubic-bezier(0.22, 1, 0.36, 1),
+		background-color 0.25s;
+
+	&:hover {
+		background: var(--surface);
+		transform: translateY(-1px);
+	}
+}
+
+/* Logo / video wall marquee rows. */
+@keyframes lw-scroll {
+	from {
+		transform: translateX(0);
+	}
+	to {
+		transform: translateX(-50%);
+	}
+}
+
+@utility lw-track {
+	animation: lw-scroll var(--lw-dur, 46s) linear infinite;
+	will-change: transform;
+
+	@media (prefers-reduced-motion: reduce) {
+		animation: none;
+	}
+}
+
+@utility lw-row {
+	&:hover .lw-track {
+		animation-play-state: paused;
+	}
+}
+
+@utility vm-fade {
+	--vm-fade: 7%;
+	mask-image: linear-gradient(
+		to right,
+		transparent 0%,
+		#000 var(--vm-fade),
+		#000 calc(100% - var(--vm-fade)),
+		transparent 100%
+	);
+
+	@media (min-width: 768px) {
+		--vm-fade: 11%;
+	}
+}
+
+/* Hero phone: the feed steps through four clips while the bar refills. */
+@keyframes hs-feed {
+	0%,
+	28% {
+		transform: translate3d(0, 0%, 0);
+	}
+	33%,
+	61% {
+		transform: translate3d(0, -100%, 0);
+	}
+	66%,
+	94% {
+		transform: translate3d(0, -200%, 0);
+	}
+	100% {
+		transform: translate3d(0, -300%, 0);
+	}
+}
+
+@keyframes hs-bar {
+	from {
+		transform: scaleX(0);
+	}
+	to {
+		transform: scaleX(1);
+	}
+}
+
+@utility hs-feed {
+	animation: hs-feed 15s cubic-bezier(0.7, 0, 0.2, 1) infinite;
+
+	@media (prefers-reduced-motion: reduce) {
+		animation: none;
+	}
+}
+
+@utility hs-bar {
+	animation: hs-bar 5s linear infinite;
+	transform-origin: left;
+
+	@media (prefers-reduced-motion: reduce) {
+		animation: none;
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"html": "<p>TikTok engagement rate is the share of a creator&#39;s audience that interacts with their content, and it is one of the fastest ways to sanity-check a creator before you partner. As a rough guide, smaller creators post higher engagement rates than large ones, and anything visibly below the norm for a creator&#39;s size is a flag. But for TikTok Shop, engagement is a filter, not the goal. Sales are the goal.</p>\n<h2 id=\"how-to-calculate-it\">How to calculate it</h2><p>The common formula:</p>\n<blockquote>\n<p>Engagement rate = (likes + comments + shares) ÷ views × 100</p>\n</blockquote>\n<p>Some use follower count as the denominator instead of views. Views-based is more honest on TikTok, where content reaches well beyond followers. Pick one method and apply it consistently when comparing creators.</p>\n<h2 id=\"rough-benchmarks-by-size\">Rough benchmarks by size</h2><p>Engagement generally falls as audience grows, because bigger audiences are less tightly connected:</p>\n<ul>\n<li><strong>Nano and micro creators</strong> tend to post the highest rates and often the best conversion for TikTok Shop.</li>\n<li><strong>Mid-tier creators</strong> sit lower but still healthy.</li>\n<li><strong>Large creators</strong> show the lowest rates, offset by raw reach.</li>\n</ul>\n<p>Treat specific percentages as directional and always compare a creator against others of similar size, not against a single universal number.</p>\n<h2 id=\"why-engagement-matters-less-than-you-think-for-shop\">Why engagement matters less than you think for Shop</h2><p>Here is the part most guides miss: for TikTok Shop, engagement rate is a vetting signal, not the outcome. A creator with modest engagement who consistently sells your category beats a high-engagement creator who has never moved a product. <a href=\"/resources/how-to-vet-tiktok-creators\">Category selling history</a> is a stronger predictor of GMV than engagement rate.</p>\n<p>Consistency is the variable that actually compounds. One seller described the curve in a r/TikTokshop thread: &quot;I joined 3 months ago and went from selling 500 per show to 1000 per show to 2000, and now I&#39;m selling upwards of 5000 to 6000 per show, six days a week&quot; (<a href=\"https://reddit.com/r/TikTokshop/comments/1utlwkf/comment/owwicwi/\">r/TikTokshop</a>). No engagement-rate benchmark predicts that. Showing up six days a week did.</p>\n<p>So use engagement to catch problems, not to pick winners.</p>\n<h2 id=\"what-engagement-catches\">What engagement catches</h2><ul>\n<li><strong>Fake followers.</strong> High follower count with low engagement suggests bought audience. See <a href=\"/resources/how-to-vet-tiktok-creators\">vetting creators</a>.</li>\n<li><strong>Dead audiences.</strong> A creator whose viewers do not interact will not drive action.</li>\n<li><strong>Comment quality.</strong> Read the comments, not just the count. Questions and buying intent beat a wall of emojis.</li>\n</ul>\n<h2 id=\"how-to-use-it-in-practice\">How to use it in practice</h2><ol>\n<li>Filter your shortlist for category selling first.</li>\n<li>Use engagement to flag anyone whose numbers look bought or inflated.</li>\n<li>Read comments on finalists for real buying intent.</li>\n<li>Compare like-for-like by creator size.</li>\n</ol>\n<h2 id=\"the-takeaway\">The takeaway</h2><p>Engagement rate is a cheap, fast filter that catches fake and dead audiences, and a weak way to pick sellers. For TikTok Shop, weight selling history above engagement, and use engagement to avoid mistakes rather than to chase a number.</p>\n<p>Want creators pre-vetted on the signals that predict sales? <a href=\"/agency\">Book a call</a>, or <a href=\"/creator-marketplace\">search proven sellers</a> in your niche.</p>",
+	"toc": [
+		{
+			"id": "how-to-calculate-it",
+			"text": "How to calculate it",
+			"level": 2
+		},
+		{
+			"id": "rough-benchmarks-by-size",
+			"text": "Rough benchmarks by size",
+			"level": 2
+		},
+		{
+			"id": "why-engagement-matters-less-than-you-think-for-shop",
+			"text": "Why engagement matters less than you think for Shop",
+			"level": 2
+		},
+		{
+			"id": "what-engagement-catches",
+			"text": "What engagement catches",
+			"level": 2
+		},
+		{
+			"id": "how-to-use-it-in-practice",
+			"text": "How to use it in practice",
+			"level": 2
+		},
+		{
+			"id": "the-takeaway",
+			"text": "The takeaway",
+			"level": 2
+		}
+	],
+	"related": [
+		"revenue-share-creator-deals",
+		"tiktok-shop-affiliate-center",
+		"tiktok-shop-affiliate-commission"
+	]
+}

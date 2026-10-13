@@ -1,0 +1,58 @@
+[
+	{
+		"slug": "terms",
+		"title": "Terms of Service",
+		"summary": "The agreement that governs your use of Tokgency, orders, and payment.",
+		"updated": "August 2026",
+		"metaTitle": "Terms of Service | Tokgency",
+		"metaDescription": "The agreement that governs your use of Tokgency, orders, and payment."
+	},
+	{
+		"slug": "privacy",
+		"title": "Privacy Policy",
+		"summary": "What we collect, why we hold it, who it goes to, and how to get it removed.",
+		"updated": "August 2026",
+		"metaTitle": "Privacy Policy | Tokgency",
+		"metaDescription": "What we collect, why we hold it, who it goes to, and how to get it removed."
+	},
+	{
+		"slug": "content-policy",
+		"title": "Content & Community Policy",
+		"summary": "What may be briefed, produced and posted through Tokgency, and what may not.",
+		"updated": "August 2026",
+		"metaTitle": "Content & Community Policy | Tokgency",
+		"metaDescription": "What may be briefed, produced and posted through Tokgency, and what may not."
+	},
+	{
+		"slug": "rights",
+		"title": "Rights & Usage Terms",
+		"summary": "What you may do with delivered content: scope, duration, territory, and extensions.",
+		"updated": "August 2026",
+		"metaTitle": "Rights & Usage Terms | Tokgency",
+		"metaDescription": "What you may do with delivered content: scope, duration, territory, and extensions."
+	},
+	{
+		"slug": "cancellation",
+		"title": "Cancellation & Refunds",
+		"summary": "When an order can be cancelled, what is refundable at each stage, and how disputes run.",
+		"updated": "August 2026",
+		"metaTitle": "Cancellation & Refunds | Tokgency",
+		"metaDescription": "When an order can be cancelled, what is refundable at each stage, and how disputes run."
+	},
+	{
+		"slug": "disclosure",
+		"title": "Creator Disclosure Guidelines",
+		"summary": "How paid partnerships, gifting and synthetic media must be disclosed on every post.",
+		"updated": "August 2026",
+		"metaTitle": "Creator Disclosure Guidelines | Tokgency",
+		"metaDescription": "How paid partnerships, gifting and synthetic media must be disclosed on every post."
+	},
+	{
+		"slug": "security",
+		"title": "Security",
+		"summary": "How accounts, creator data and payment records are protected.",
+		"updated": "August 2026",
+		"metaTitle": "Security | Tokgency",
+		"metaDescription": "How Tokgency protects accounts, campaign data, and payments."
+	}
+]

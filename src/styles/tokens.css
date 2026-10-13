@@ -1,0 +1,49 @@
+/*
+ * Design tokens: the single source of truth for colour, type and elevation.
+ * Components never use raw values; they use the utilities generated from the
+ * @theme block in globals.css, which reads from here.
+ */
+:root {
+	color-scheme: dark;
+
+	/* Surfaces */
+	--background: #080808;
+	--surface: #0e0e0e;
+	--card: #131313;
+	--contrast: #171717;
+
+	/* Text */
+	--foreground: #ece9e4;
+	--muted: #9a968d;
+	--on-contrast: #ece9e4;
+
+	/* Lines */
+	--hairline: #efece71f;
+	--hairline-strong: #efece733;
+	--contrast-ring: #efece71a;
+
+	/* Brand */
+	--accent: #ff3d61;
+	--accent-soft: #ff3d6124;
+	--primary: #f8f6f1;
+	--on-primary: #0f0f0f;
+
+	/* Logo mark */
+	--logo-cyan-from: #31d5f2;
+	--logo-cyan-to: #00b7d2;
+	--logo-coral: #e92f5b;
+
+	/* Type families (set by the font imports in globals.css) */
+	--font-geist: "Geist Variable";
+	--font-geist-mono: "Geist Mono Variable";
+	--font-instrument: "Instrument Serif";
+	--font-hand: "Caveat Variable";
+
+	/* Elevation */
+	--elevation-soft: 0 1px 0 0 #efece70a inset, 0 4px 12px #00000080;
+	--elevation-lift:
+		0 1px 0 0 #efece70d inset, 0 20px 44px -16px #000000b8,
+		0 6px 16px -8px #00000080;
+
+	--radius: 0.75rem;
+}

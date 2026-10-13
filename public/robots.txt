@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /login
+
+Host: https://tokgency.com
+Sitemap: https://tokgency.com/sitemap.xml
